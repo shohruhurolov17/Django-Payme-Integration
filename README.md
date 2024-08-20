@@ -1,2 +1,2 @@
 # Django-Payme-Integration
-Payme Uzbekistan integration Hume and UzCard
+Payme Uzbekistan integration Humo and UzCard
